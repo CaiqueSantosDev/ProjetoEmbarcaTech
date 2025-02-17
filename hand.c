@@ -6,8 +6,8 @@
 #include "hardware/pwm.h"
 #include "hardware/clocks.h"
 
-#define WIFI_SSID "Internet" // Substitua pelo nome da sua rede Wi-Fi
-#define WIFI_PASS "Regeddit" // Substitua pela senha da sua rede Wi-Fi
+#define WIFI_SSID "Nome_Rede" // Substitua pelo nome da sua rede Wi-Fi
+#define WIFI_PASS "Senha_Rede" // Substitua pela senha da sua rede Wi-Fi
 #define PORT 8080           // Porta para comunicação TCP
 
 // Variável global para armazenar o número de dedos
